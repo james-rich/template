@@ -289,6 +289,7 @@ html body .title {
   text-align: left;
   text-underline: black;
   padding: 10px;
+  text-decoration: underline;
 }
 html body div.container {
   max-width: 100%;
@@ -304,12 +305,11 @@ html body div.container div.box .box-content-container {
   box-shadow: 3px 3px 3px #000;
   border: 1px solid #ff8000;
   height: 100%;
-  border-radius: 5px;
   overflow: hidden;
   color: #ff8000;
 }
 html body div.container div.box .box-content-container .box-title {
-  padding: 5px;
+  padding-left: 5px;
   background-color: #ff8000;
   color: #333333;
 }
@@ -318,8 +318,4 @@ html body div.container div.box .box-content-container p {
 }
 html body div.container div.box .box-content-container:hover {
   box-shadow: 0 0 3px #000;
-}
-html body div.container div.box .box-content-container:hover .box-title {
-  color: #fff;
-  text-decoration: underline;
 }

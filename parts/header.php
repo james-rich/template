@@ -22,25 +22,33 @@
             <li class="dropdown">
                 <span>CDA401</span>
                 <ul class="dropdown-content">
-                    <li>Session 1</li>
+                    <li><a href="">Session 1</a></li>
+                    <li><a href="">Session 2</a></li>
+                    <li><a href="">Advanced 2</a></li>
                 </ul>
             </li>
             <li class="dropdown">
                 <span>CDA400</span>
                 <ul class="dropdown-content">
-                    <li>Session 1</li>
+                    <li><a href="">Session 1</a></li>
+                    <li><a href="">Session 2</a></li>
+                    <li><a href="">Advanced 2</a></li>
                 </ul>
             </li>
             <li class="dropdown">
                 <span>CDA400</span>
                 <ul class="dropdown-content">
-                    <li>Session 1</li>
+                    <li><a href="">Session 1</a></li>
+                    <li><a href="">Session 2</a></li>
+                    <li><a href="">Advanced 2</a></li>
                 </ul>
             </li>
             <li class="dropdown">
                 <span>CDA400</span>
                 <ul class="dropdown-content">
-                    <li>Session 1</li>
+                    <li><a href="">Session 1</a></li>
+                    <li><a href="">Session 2</a></li>
+                    <li><a href="">Advanced 2</a></li>
                 </ul>
             </li>
         </ul>

@@ -14,7 +14,7 @@
     <div class="container">
         <div class="box offset-3-left">
             <div class="box-content-container">
-                <h2 class="box-title">Title Here</h2>
+                <h3 class="box-title">Title Here</h3>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                     Ad aliquid aut blanditiis enim id laborum magni molestias
@@ -25,7 +25,7 @@
         </div>
         <div class="box offset-6-both">
             <div class="box-content-container">
-                <h2 class="box-title">Title Here</h2>
+                <h3 class="box-title">Title Here</h3>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                     Ad aliquid aut blanditiis enim id laborum magni molestias
@@ -36,7 +36,7 @@
         </div>
         <div class="box offset-3-right">
             <div class="box-content-container">
-                <h2 class="box-title">Title Here</h2>
+                <h3 class="box-title">Title Here</h3>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                     Ad aliquid aut blanditiis enim id laborum magni molestias
@@ -47,7 +47,7 @@
         </div>
         <div class="box offset-8-left">
             <div class="box-content-container">
-                <h2 class="box-title">Title Here</h2>
+                <h3 class="box-title">Title Here</h3>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                     Ad aliquid aut blanditiis enim id laborum magni molestias
@@ -58,7 +58,7 @@
         </div>
         <div class="box offset-2-both">
             <div class="box-content-container">
-                <h2 class="box-title">Title Here</h2>
+                <h3 class="box-title">Title Here</h3>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                     Ad aliquid aut blanditiis enim id laborum magni molestias
@@ -69,7 +69,7 @@
         </div>
         <div class="box offset-2-right">
             <div class="box-content-container">
-                <h2 class="box-title">Title Here</h2>
+                <h3 class="box-title">Title Here</h3>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                     Ad aliquid aut blanditiis enim id laborum magni molestias
