@@ -271,6 +271,9 @@ html body header nav .nav-container .dropdown .dropdown-content li a {
   color: #333333;
   text-decoration: none;
 }
+html body header nav .nav-container .dropdown .dropdown-content li:first-child {
+  border-top: 1px solid black;
+}
 html body header nav .nav-container .dropdown .dropdown-content li:hover {
   background-color: #333333;
 }
